@@ -1,0 +1,7 @@
+git clone https://github.com/Erbiie/Erbiie.github.io
+cd Erbiie.github.io
+echo "Hello World" > proposal.html
+echo "Hello World" > yes.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
